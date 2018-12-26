@@ -1,0 +1,8 @@
+[package]
+name = "sciter_demo"
+version = "0.1.0"
+authors = ["Jakub Tomana <jakub.tomana@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
+sciter-rs = "0.5.45"
